@@ -1,0 +1,28 @@
+name: commbasics.typepad.com
+favicon: null
+layout_spectrum: 0.9617432428058237
+typography_spectrum: 0.8537213301751763
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.183868890395388
+  lightness: 0.06546824635006487
+  saturation: 0.20560324960388243
+  rhythmicContrast: 0.8908445618581027
+purpose: []
